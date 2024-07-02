@@ -50,10 +50,10 @@ const Featured = () => {
                 <div className="w-full h-1 bg-violet-600"></div>
                 <div className="w-full h-1 bg-amber-400 translate-x-1"></div>
             </div>
-            <div className='scale-90 md:scale-100 md:mx-2 grid grid-cols-2 max-w-5xl mt-12 gap-7'>
+            <div className='scale-90 md:scale-100 md:mx-2 grid grid-cols-2 max-w-5xl mt-8 gap-7'>
                 {features.map((feature, index) => {
                     return(
-                        <Link href={feature.link} key={index} aria-label={feature.text} target="_blank" className='flex p-5 bg-gray-900 hover:ring-2 ring-emerald-400 rounded-full gap-4 transition-all duration-300'>
+                        <Link href={feature.link} key={index} aria-label={feature.text} target="_blank" className='flex p-5 bg-gray-900 hover:ring-2 ring-emerald-400 rounded-full gap-2 transition-all duration-300'>
                             <Image 
                                 src={feature.image}
                                 alt={feature.text}
@@ -61,9 +61,9 @@ const Featured = () => {
                                 height={40}
                                 className="object-contain hover:scale-110 transition-all"
                             />
-                            <div>
-                                <h3 className='md:text-xl font-semibold'>{feature.text}</h3>
-                                <p className='text-sm font-medium text-gray-500'>{feature.description}</p>
+                            <div className='flex flex-col justify-center'>
+                                <p className='text-sm md:text-xl font-semibold'>{feature.text}</p>
+                                <p className='text-[12px] font-medium text-gray-500 md:text-sm'>{feature.description}</p>
                             </div>
                         </Link>
                     )

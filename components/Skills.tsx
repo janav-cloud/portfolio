@@ -43,12 +43,12 @@ const Skills = () => {
   ];
   return (
     <>
-    <div className='grid justify-center mt-24 -rotate-[5deg]'>
+    <div className='grid justify-center mt-12 -rotate-[5deg]'>
         <h1 className='text-2xl font-bold md:text-3xl'>Skills 🧑‍💻</h1>
         <div className="w-full h-1 bg-violet-600"></div>
         <div className="w-full h-1 bg-amber-400 translate-x-1"></div>
     </div>
-    <div className='md: max-w-5xl mx-auto'>
+    <div className='md:max-w-5xl mx-auto'>
       <HoverEffect items={skills} className='grid-cols-3'/>
     </div>
     </>

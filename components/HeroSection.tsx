@@ -19,6 +19,7 @@ const HeroSection = () => {
                     <div className="w-full h-1 bg-violet-600 translate-x-1"></div>
                 </div>
             </Link>
+            <div className="mt-12 w-full h-[1px] bg-gray-300 opacity-30"></div>
         </div>
 
         <div className="flex flex-col justify-center items-center w-72 h-72 space-y-3 -rotate-[30deg] relative">
