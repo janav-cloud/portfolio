@@ -59,7 +59,7 @@ export const HoverEffect = ({
                   className="object-contain opacity-100 md:scale-150"
                 />
               </div>
-              <p className="mt-2 text-[12px] text-gray-300 font-semibold text-center opacity-100 md:mt-3 md:text-lg">{item.title}</p>
+              <p className="mt-2 text-[11px] text-gray-300 font-semibold text-center opacity-100 md:mt-3 md:text-lg">{item.title}</p>
             </div>
           </div>
         </div>

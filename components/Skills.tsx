@@ -40,6 +40,18 @@ const Skills = () => {
       title: "Communication",
       icon: "/assets/icons/comm.svg"
     },
+    {
+      title: "Figma",
+      icon: "/assets/icons/figma.svg"
+    },
+    {
+      title: "Adobe CC",
+      icon: "/assets/icons/adobe.svg"
+    },
+    {
+      title: "Excel",
+      icon: "/assets/icons/excel.svg"
+    },
   ];
   return (
     <>

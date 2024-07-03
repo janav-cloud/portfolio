@@ -12,10 +12,22 @@ const Featured = () => {
             link: "https://www.linkedin.com/posts/janav-dua-jd07_a-new-journey-activity-7208884283829022720-62he?utm_source=share&utm_medium=member_desktop"
         },
         {
-            text: "VMCDWA",
+            text: "VCMDWA",
             description: "Intern",
             image: "/assets/icons/react.svg",
             link: "https://www.linkedin.com/posts/janav-dua-jd07_digitalsolutions-webdevelopment-graphicdesigning-activity-7177266387512438784-npvO?utm_source=share&utm_medium=member_desktop"
+        },
+        {
+            text: "Persistent Systems",
+            description: "Mentee",
+            image: "/assets/icons/team.svg",
+            link: ""
+        },
+        {
+            text: "Demand Nexus",
+            description: "Intern",
+            image: "/assets/icons/figma.svg",
+            link: "https://www.linkedin.com/posts/janav-dua-jd07_im-happy-to-share-that-im-starting-a-new-activity-7201439402428964865-eyRP?utm_source=share&utm_medium=member_desktop"
         },
         {
             text: "PL Mini Project",
