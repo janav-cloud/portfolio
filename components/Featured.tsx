@@ -42,10 +42,10 @@ const Featured = () => {
             link: "https://www.linkedin.com/posts/janav-dua-jd07_delmun-50-the-journey-activity-7145318335814021120-M3Uk?utm_source=share&utm_medium=member_desktop"
         },
         {
-            text: "AmazDeals!",
-            description: "Price Tracker",
+            text: "PrepAI!",
+            description: "AI Interviews",
             image: "/assets/icons/next.svg",
-            link: "https://github.com/janav-cloud/amaz-deals"
+            link: "https://prep-ai-hazel.vercel.app/"
         },
         {
             text: "Note It!",
