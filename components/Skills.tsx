@@ -41,7 +41,15 @@ const Skills = () => {
       icon: "/assets/icons/comm.svg"
     },
     {
+      title: "Data Science",
+      icon: "/assets/icons/data.svg"
+    },
+    {
       title: "Machine Learning",
+      icon: "/assets/icons/ml.svg"
+    },
+    {
+      title: "Generative AI",
       icon: "/assets/icons/bard-fill.svg"
     },
     {
@@ -53,8 +61,8 @@ const Skills = () => {
       icon: "/assets/icons/adobe.svg"
     },
     {
-      title: "Excel",
-      icon: "/assets/icons/excel.svg"
+      title: "365 & Workspace",
+      icon: "/assets/icons/work.svg"
     },
   ];
   return (

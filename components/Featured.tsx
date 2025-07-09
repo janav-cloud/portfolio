@@ -8,8 +8,8 @@ const Featured = () => {
         {
             text: "CUBE.ms",
             description: "SDE-I Intern",
-            image: "/assets/icons/cloud.svg",
-            link: "https://www.linkedin.com/posts/janav-dua-jd07_a-new-journey-activity-7208884283829022720-62he?utm_source=share&utm_medium=member_desktop"
+            image: "/assets/icons/instance-fill.svg",
+            link: "https://www.linkedin.com/posts/janav-dua-jd07_im-happy-to-share-that-i-will-be-starting-activity-7335929321821245440-hmBQ?utm_source=share&utm_medium=member_desktop&rcm=ACoAADyMsqIBSh4HqB-vgarDO2N5qLuDEFvHUcc"
         },
         {
             text: "Parkar Digital",
@@ -27,7 +27,7 @@ const Featured = () => {
             text: "Persistent Systems",
             description: "Apprentice",
             image: "/assets/icons/team.svg",
-            link: ""
+            link: "https://www.linkedin.com/posts/janav-dua-jd07_certificate-of-completion-persistent-systems-activity-7234236659003731969-Po58?utm_source=share&utm_medium=member_desktop&rcm=ACoAADyMsqIBSh4HqB-vgarDO2N5qLuDEFvHUcc"
         },
         {
             text: "RBU SRC",
@@ -51,7 +51,7 @@ const Featured = () => {
             text: "Feed! Twitter MVP",
             description: "Chair",
             image: "/assets/icons/football-fill.svg",
-            link: "https://www.linkedin.com/posts/janav-dua-jd07_mun-football-manager-ai-activity-7338083072803774464-blkd?utm_source=share&utm_medium=member_desktop&rcm=ACoAADyMsqIBSh4HqB-vgarDO2N5qLuDEFvHUcc"
+            link: "https://mun-feed.vercel.app"
         },
         {
             text: "TradiX.AI!",
@@ -74,7 +74,7 @@ const Featured = () => {
         {
             text: "Super Tic Tac Toe!",
             description: "The Ultimate XOXO",
-            image: "/assets/icons/github-full.svg",
+            image: "/assets/icons/tic-tac-toe.svg",
             link: "https://github.com/janav-cloud/note-it"
         },
     ];
