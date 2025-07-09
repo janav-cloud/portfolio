@@ -62,7 +62,7 @@ const Featured = () => {
         {
             text: "PrepAI!",
             description: "AI Interviews",
-            image: "/assets/icons/next.svg",
+            image: "/assets/icons/prep.svg",
             link: "https://prep-ai-hazel.vercel.app/"
         },
         {
