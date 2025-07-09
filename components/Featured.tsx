@@ -18,12 +18,6 @@ const Featured = () => {
             link: "https://www.linkedin.com/posts/janav-dua-jd07_a-new-journey-activity-7208884283829022720-62he?utm_source=share&utm_medium=member_desktop"
         },
         {
-            text: "VCMDWA",
-            description: "Solutions Intern",
-            image: "/assets/icons/react.svg",
-            link: "https://www.linkedin.com/posts/janav-dua-jd07_digitalsolutions-webdevelopment-graphicdesigning-activity-7177266387512438784-npvO?utm_source=share&utm_medium=member_desktop"
-        },
-        {
             text: "Persistent Systems",
             description: "Apprentice",
             image: "/assets/icons/team.svg",
@@ -36,7 +30,13 @@ const Featured = () => {
             link: "https://www.linkedin.com/posts/janav-dua-jd07_was-inactive-for-a-long-time-guys-was-on-activity-7262947856288743427-s3WZ?utm_source=share&utm_medium=member_desktop&rcm=ACoAADyMsqIBSh4HqB-vgarDO2N5qLuDEFvHUcc"
         },
         {
-            text: "PL Mini Project",
+            text: "VCMDWA",
+            description: "Solutions Intern",
+            image: "/assets/icons/react.svg",
+            link: "https://www.linkedin.com/posts/janav-dua-jd07_digitalsolutions-webdevelopment-graphicdesigning-activity-7177266387512438784-npvO?utm_source=share&utm_medium=member_desktop"
+        },
+        {
+            text: "PL Season 22/23",
             description: "Data Analysis",
             image: "/assets/icons/python.svg",
             link: "https://www.linkedin.com/posts/janav-dua-jd07_premier-league-22-23-team-performance-analysis-activity-7138090717746253824-ZTze?utm_source=share&utm_medium=member_desktop"
@@ -69,13 +69,13 @@ const Featured = () => {
             text: "Note It!",
             description: "Notes on Cloud",
             image: "/assets/icons/firebase.svg",
-            link: "https://github.com/janav-cloud/note-it"
+            link: "https://github.com/janav-07/note-it"
         },
         {
             text: "Super Tic Tac Toe!",
             description: "The Ultimate XOXO",
             image: "/assets/icons/tic-tac-toe.svg",
-            link: "https://github.com/janav-cloud/note-it"
+            link: "https://janav-07.github.io/super-tic-tac-toe/"
         },
     ];
 

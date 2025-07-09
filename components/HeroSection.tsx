@@ -10,15 +10,22 @@ const HeroSection = () => {
             <p className="md:w-96 text-lg text-gray-300">
                 {"Sports and tech enthusiast who loves creating content, exploring emerging tech, and watching sitcoms. My passions fuel my love for wordplay, puns, and humor."}
             </p>
-            <Link href="https://linktr.ee/janavdua7" className="inline-block text-xl font-bold hover:text-emerald-400 transition-colors -rotate-2">
-                <div>
-                    <h1>
-                        Contact Me 🙋
+            <div className="flex flex-col md:flex-row gap-5 items-center">
+                <Link href="https://linktr.ee/janavdua7" className="inline-block text-xl font-bold hover:text-emerald-400 transition-colors -rotate-2">
+                    <div>
+                        <h1>
+                            Contact Me 🙋
+                        </h1>
+                        <div className="w-full h-1 bg-amber-400"></div>
+                        <div className="w-full h-1 bg-violet-600 translate-x-1"></div>
+                    </div>
+                </Link>
+                <Link href="/assets/Janav_Dua_Resume.pdf" target="_blank" className="text-xl font-bold transition-all">
+                    <h1 className="bg-violet-600 px-5 py-2 rounded-xl hover:ring-2 ring-amber-400 hover:bg-violet-900">
+                        Resume 📃
                     </h1>
-                    <div className="w-full h-1 bg-amber-400"></div>
-                    <div className="w-full h-1 bg-violet-600 translate-x-1"></div>
-                </div>
-            </Link>
+                </Link>
+            </div>
             <div className="mt-12 w-full h-[1px] bg-gray-300 opacity-30"></div>
         </div>
 
