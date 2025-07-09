@@ -29,7 +29,7 @@ const Skills = () => {
       icon: "/assets/icons/firebase.svg"
     },
     {
-      title: "MySQL",
+      title: "SQL & DB",
       icon: "/assets/icons/sql.svg"
     },
     {
@@ -39,6 +39,10 @@ const Skills = () => {
     {
       title: "Communication",
       icon: "/assets/icons/comm.svg"
+    },
+    {
+      title: "Machine Learning",
+      icon: "/assets/icons/bard-fill.svg"
     },
     {
       title: "Figma",

@@ -6,28 +6,34 @@ const Featured = () => {
 
     const features = [
         {
+            text: "CUBE.ms",
+            description: "SDE-I Intern",
+            image: "/assets/icons/cloud.svg",
+            link: "https://www.linkedin.com/posts/janav-dua-jd07_a-new-journey-activity-7208884283829022720-62he?utm_source=share&utm_medium=member_desktop"
+        },
+        {
             text: "Parkar Digital",
-            description: "Intern",
+            description: "DevOps Intern",
             image: "/assets/icons/cloud.svg",
             link: "https://www.linkedin.com/posts/janav-dua-jd07_a-new-journey-activity-7208884283829022720-62he?utm_source=share&utm_medium=member_desktop"
         },
         {
             text: "VCMDWA",
-            description: "Intern",
+            description: "Solutions Intern",
             image: "/assets/icons/react.svg",
             link: "https://www.linkedin.com/posts/janav-dua-jd07_digitalsolutions-webdevelopment-graphicdesigning-activity-7177266387512438784-npvO?utm_source=share&utm_medium=member_desktop"
         },
         {
             text: "Persistent Systems",
-            description: "Mentee",
+            description: "Apprentice",
             image: "/assets/icons/team.svg",
             link: ""
         },
         {
-            text: "Demand Nexus",
-            description: "Intern",
-            image: "/assets/icons/figma.svg",
-            link: "https://www.linkedin.com/posts/janav-dua-jd07_im-happy-to-share-that-im-starting-a-new-activity-7201439402428964865-eyRP?utm_source=share&utm_medium=member_desktop"
+            text: "RBU SRC",
+            description: "Technical Incharge",
+            image: "/assets/icons/src.svg",
+            link: "https://www.linkedin.com/posts/janav-dua-jd07_was-inactive-for-a-long-time-guys-was-on-activity-7262947856288743427-s3WZ?utm_source=share&utm_medium=member_desktop&rcm=ACoAADyMsqIBSh4HqB-vgarDO2N5qLuDEFvHUcc"
         },
         {
             text: "PL Mini Project",
@@ -36,10 +42,22 @@ const Featured = () => {
             link: "https://www.linkedin.com/posts/janav-dua-jd07_premier-league-22-23-team-performance-analysis-activity-7138090717746253824-ZTze?utm_source=share&utm_medium=member_desktop"
         },
         {
-            text: "DELMUN 5.0",
+            text: "MUN FIFA Analyser",
             description: "Chair",
             image: "/assets/icons/comm.svg",
-            link: "https://www.linkedin.com/posts/janav-dua-jd07_delmun-50-the-journey-activity-7145318335814021120-M3Uk?utm_source=share&utm_medium=member_desktop"
+            link: "https://www.linkedin.com/posts/janav-dua-jd07_mun-football-manager-ai-activity-7338083072803774464-blkd?utm_source=share&utm_medium=member_desktop&rcm=ACoAADyMsqIBSh4HqB-vgarDO2N5qLuDEFvHUcc"
+        },
+        {
+            text: "Feed! Twitter MVP",
+            description: "Chair",
+            image: "/assets/icons/football-fill.svg",
+            link: "https://www.linkedin.com/posts/janav-dua-jd07_mun-football-manager-ai-activity-7338083072803774464-blkd?utm_source=share&utm_medium=member_desktop&rcm=ACoAADyMsqIBSh4HqB-vgarDO2N5qLuDEFvHUcc"
+        },
+        {
+            text: "TradiX.AI!",
+            description: "Stock Predictions!",
+            image: "/assets/icons/funds-fill.svg",
+            link: "https://tradix-ai.vercel.app/"
         },
         {
             text: "PrepAI!",
