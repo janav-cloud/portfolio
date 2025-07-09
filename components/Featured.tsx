@@ -69,7 +69,13 @@ const Featured = () => {
             text: "Note It!",
             description: "Notes on Cloud",
             image: "/assets/icons/firebase.svg",
-            link: "https://github.com/janav-07/note-it"
+            link: "https://github.com/janav-cloud/note-it"
+        },
+        {
+            text: "Super Tic Tac Toe!",
+            description: "The Ultimate XOXO",
+            image: "/assets/icons/github-full.svg",
+            link: "https://github.com/janav-cloud/note-it"
         },
     ];
 
