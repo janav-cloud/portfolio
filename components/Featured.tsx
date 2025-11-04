@@ -25,9 +25,15 @@ const Featured = () => {
         },
         {
             text: "RBU SRC",
+            description: "General Secretary",
+            image: "/assets/icons/king.svg",
+            link: "https://rbunagpur.in/student-resource-center-src/"
+        },
+        {
+            text: "RBU SRC",
             description: "Technical Incharge",
             image: "/assets/icons/src.svg",
-            link: "https://www.linkedin.com/posts/janav-dua-jd07_was-inactive-for-a-long-time-guys-was-on-activity-7262947856288743427-s3WZ?utm_source=share&utm_medium=member_desktop&rcm=ACoAADyMsqIBSh4HqB-vgarDO2N5qLuDEFvHUcc"
+            link: "https://rbunagpur.in/student-resource-center-src/"
         },
         {
             text: "VCMDWA",
@@ -64,6 +70,12 @@ const Featured = () => {
             description: "AI Interviews",
             image: "/assets/icons/prep.svg",
             link: "https://prep-ai-hazel.vercel.app/"
+        },
+        {
+            text: "F1 Simulator",
+            description: "Data & F1!",
+            image: "/assets/icons/f1.svg",
+            link: "https://github.com/janav-cloud/sim-f1"
         },
         {
             text: "Note It!",
